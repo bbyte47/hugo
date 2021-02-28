@@ -1,0 +1,5 @@
+{{ define "h1" }}{{- .Title -}}{{ end }}
+{{ define "main" }}
+  {{- partial "genres.html" . -}}
+  <p>{{- .Content -}}</p>
+{{ end }}

@@ -1,0 +1,19 @@
+baseURL = "http://maggodee.net/"
+languageCode = "en-us"
+title = "Maggodee"
+theme = "sp_theme"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  genres = "genres"
+
+[menu]
+  [[menu.main]]
+    name = "Posts archive"
+    url = "/posts"
+
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"    
