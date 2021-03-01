@@ -71,6 +71,10 @@ body {
   padding-bottom: 2rem;
 }
 
+.header-content img {
+  padding-bottom: 4rem;
+}
+
 .btn {
   background: #34b3a0;
   color: #fff;

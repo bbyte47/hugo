@@ -1,6 +1,6 @@
-baseURL = "http://maggodee.net/"
+baseURL = "http://rideforsoul.com/"
 languageCode = "en-us"
-title = "Maggodee"
+title = "RideForSoul"
 theme = "sp_theme"
 
 [taxonomies]
@@ -15,5 +15,5 @@ theme = "sp_theme"
 
 
   [[menu.main]]
-    name = "About"
-    url = "/about"    
+    name = "Contact"
+    url = "/contact"    
